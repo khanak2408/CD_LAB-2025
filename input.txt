@@ -1,0 +1,11 @@
+#include<stdlib.c>
+int main(){
+    int m=20;
+    int n=30;
+    float=3.5;
+    if(m>n)
+        printf("m is greater");
+    else
+        printf("n is greater");
+    return 0;
+}
