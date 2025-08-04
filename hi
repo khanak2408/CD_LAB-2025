@@ -1,0 +1,9 @@
+flex first.l
+gcc lex.yy.c -o test
+./test input.txt
+
+argc=2
+argv[0] = test
+argv[1] = input.txt
+
+https://github.com/khanak2408/CD_LAB-2025
